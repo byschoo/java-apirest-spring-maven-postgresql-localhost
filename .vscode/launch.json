@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ApirestlocalApplication<apirestlocal>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.byschoo.apirestcrudspringmavenpostgreslocal.apirestlocal.ApirestlocalApplication",
+            "projectName": "apirestlocal",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
